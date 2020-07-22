@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_gender_options">
+        <item>@string/gender_unknown_cap</item>
+        <item>@string/gender_male_cap</item>
+        <item>@string/gender_female_cap</item>
+    </string-array>
+    <string name="gender_unknown_cap">Unknown</string>
+    <string name="gender_male_cap">Male</string>
+    <string name="gender_female_cap">Female</string>
+</resources>
